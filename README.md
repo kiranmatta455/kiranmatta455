@@ -64,7 +64,7 @@ Full Stack Developer specializing in MERN stack technologies. Passionate about c
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=suresh2218&show_icons=true&locale=en&theme=highcontrast&hide_border=true" alt="karanchandekar" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=suresh2218&show_icons=true&locale=en&layout=compact&theme=highcontrast&hide_border=true" alt="karanchandekar" /></td
+    <td><img src="https://github-readme-stats.vercel.app/api?username=kiranmatta455&show_icons=true&locale=en&theme=highcontrast&hide_border=true" alt="karanchandekar" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kiranmatta455&show_icons=true&locale=en&layout=compact&theme=highcontrast&hide_border=true" alt="karanchandekar" /></td
   </tr>
 </table>
