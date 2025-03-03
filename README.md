@@ -8,8 +8,8 @@ Full Stack Developer specializing in MERN stack technologies. Passionate about c
 ### 🚀 More about me
 
 - 🌱 I’m currently learning *Fullstack Development*
-- 👨‍💻 Personal portfolio: *<a href="https://github.com/SURESH2218/portfolio">Portfolio</a>*
-- 📫 How to reach me: *sureshalabani2785@gmail.com*
+- 👨‍💻 Personal portfolio: *<a href="https://kiranmatta455.github.io/MyPortfolio/">Portfolio</a>*
+- 📫 How to reach me: *kiranmatta455@gmail.com*
 
 ---
 
@@ -54,9 +54,9 @@ Full Stack Developer specializing in MERN stack technologies. Passionate about c
 
 ### 🔗 Connect with me
 
-[![Linkedin](https://img.shields.io/badge/linked%20in-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suresh-alabani-b49724199/)
-[![Github](https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SURESH2218/)
-[![Email](https://img.shields.io/badge/email-red.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sureshalabani2785@gmail.com)
+[![Linkedin](https://img.shields.io/badge/linked%20in-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kiran-matta/)
+[![Github](https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kiranmatta455)
+[![Email](https://img.shields.io/badge/email-red.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kiranmatta455@gmail.com)
 
 #
 
