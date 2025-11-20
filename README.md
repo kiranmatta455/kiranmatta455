@@ -9,7 +9,7 @@ Full Stack Developer specializing in MERN stack technologies. Passionate about c
 
 - 🌱 I’m currently learning *Fullstack Development*
 - 👨‍💻 Personal portfolio: *<a href="https://kiranmatta455.github.io/MyPortfolio/">Portfolio</a>*
-- 📫 How to reach me: *kiranmatta455@gmail.com*
+- 📫 How to reach me: *kiranmatta129@gmail.com*
 
 ---
 
