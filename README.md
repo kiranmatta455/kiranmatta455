@@ -1,6 +1,6 @@
 # 🏄‍♂ Sivasai Kiran Matta
 
-**MERN Stack Developer**
+**Full-stack Stack Developer**
 
 Full Stack Developer specializing in MERN stack technologies. Passionate about creating dynamic web applications and continuously learning new skills. Experienced with React, Node.js, Express, and MongoDB. Let's build something amazing together!
 
