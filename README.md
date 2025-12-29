@@ -69,7 +69,18 @@ Full Stack Developer specializing in MERN stack technologies. Passionate about c
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=kiranmatta455&show_icons=true&locale=en&theme=highcontrast&hide_border=true" alt="kiranmatta455" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kiranmatta455&show_icons=true&locale=en&layout=compact&theme=highcontrast&hide_border=true" alt="kiranmatta455" /></td
+    <td>
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=kiranmatta455&show_icons=true&theme=highcontrast&hide_border=true" 
+        alt="Kiran Matta GitHub Stats" 
+      />
+    </td>
+    <td>
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=kiranmatta455&layout=compact&theme=highcontrast&hide_border=true" 
+        alt="Kiran Matta Top Languages" 
+      />
+    </td>
   </tr>
 </table>
+
