@@ -2,7 +2,7 @@
 
 **Full-stack Stack Developer**
 
-Full Stack Developer specializing in MERN stack technologies. Passionate about creating dynamic web applications and continuously learning new skills. Experienced with React, Node.js, Express, and MongoDB. Let's build something amazing together!
+Full Stack Developer specializing in MERN stack technologies. Passionate about creating dynamic web applications and continuously learning new skills. Experienced with Django, React, Node.js, Express, and MongoDB. Let's build something amazing together!
 
 
 ### 🚀 More about me
@@ -28,11 +28,16 @@ Full Stack Developer specializing in MERN stack technologies. Passionate about c
 
 ### 🔧 Backend
 
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/django%20rest%20framework-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/express-%23CC0000.svg?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+
 <br/>
 
 
@@ -56,7 +61,7 @@ Full Stack Developer specializing in MERN stack technologies. Passionate about c
 
 [![Linkedin](https://img.shields.io/badge/linked%20in-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kiran-matta/)
 [![Github](https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kiranmatta455)
-[![Email](https://img.shields.io/badge/email-red.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kiranmatta455@gmail.com)
+[![Email](https://img.shields.io/badge/email-red.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kiranmatta129@gmail.com)
 
 #
 
