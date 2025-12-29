@@ -2,7 +2,10 @@
 
 **Full-stack Stack Developer**
 
-Full Stack Developer specializing in MERN stack technologies. Passionate about creating dynamic web applications and continuously learning new skills. Experienced with Django, React, Node.js, Express, and MongoDB. Let's build something amazing together!
+Motivated Computer Science postgraduate with hands-on experience in AI research, web development, and 
+competitive coding. Proficient in Python, Java, and databases with 500+ problems solved on CodeChef. Seeking a 
+dynamic role to apply technical skills, contribute to innovative solutions, and grow professionally in a collaborative, 
+learning-driven software or data-focused environment. 
 
 
 ### 🚀 More about me
