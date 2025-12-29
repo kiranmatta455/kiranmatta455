@@ -1,6 +1,6 @@
 # 🏄‍♂ Sivasai Kiran Matta
 
-**Full-stack Stack Developer**
+**Full-stack Developer**
 
 Motivated Computer Science postgraduate with hands-on experience in AI research, web development, and 
 competitive coding. Proficient in Python, Java, and databases with 500+ problems solved on CodeChef. Seeking a 
@@ -10,7 +10,7 @@ learning-driven software or data-focused environment.
 
 ### 🚀 More about me
 
-- 🌱 I’m currently learning *Fullstack Development*
+- 🌱 I’m currently learning *AIML* *Fullstack Development*
 - 👨‍💻 Personal portfolio: *<a href="https://kiranmatta455.github.io/MyPortfolio/">Portfolio</a>*
 - 📫 How to reach me: *kiranmatta129@gmail.com*
 
