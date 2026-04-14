@@ -1,83 +1,157 @@
-# 🏄‍♂ Sivasai Kiran Matta
+# 👋 Hi, I'm Sivasai Kiran Matta
 
-**Full-stack Developer**
+### Generative AI Engineer | LLM & RAG Specialist
 
-Motivated Computer Science postgraduate with hands-on experience in AI research, web development, and 
-competitive coding. Proficient in Python, Java, and databases with 500+ problems solved on CodeChef. Seeking a 
-dynamic role to apply technical skills, contribute to innovative solutions, and grow professionally in a collaborative, 
-learning-driven software or data-focused environment. 
-
-
-### 🚀 More about me
-
-- 🌱 I’m currently learning *AIML* *Fullstack Development*
-- 👨‍💻 Personal portfolio: *<a href="https://kiranmatta455.github.io/MyPortfolio/">Portfolio</a>*
-- 📫 How to reach me: *kiranmatta129@gmail.com*
+📍 India  
+📧 kiranmatta129@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/kiran-matta/)  
+💻 [GitHub](https://github.com/kiranmatta455)  
+🌐 [Portfolio](https://kiranmatta455.github.io/MyPortfolio/)
 
 ---
 
-### 🧰 Tech Stack
+## 🚀 Professional Summary
 
-### 🌐 Frontend
+Generative AI enthusiast with hands-on experience building LLM-powered RAG systems, fine-tuning pre-trained models, and deploying end-to-end AI solutions. Proficient in Python, LangChain, HuggingFace, and Deep Learning fundamentals, with exposure to Transformer architectures, Diffusion Models, and cloud-based ML pipelines. Passionate about prototyping enterprise-grade generative AI applications from concept to deployment, with an extreme ownership mindset and a strong drive to push the boundaries of AI innovation.
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/tailwind%20css-%2335495e.svg?style=for-the-badge&logo=tailwindcss&logoColor=%234FC08D)
-![SCSS](https://img.shields.io/badge/SCSS-%23323330.svg?style=for-the-badge&logo=SASS&logoColor=%CC6699)
-![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
-<br/>
+---
 
-### 🔧 Backend
+## 🧠 Technical Skills
 
-![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django REST Framework](https://img.shields.io/badge/django%20rest%20framework-092E20?style=for-the-badge&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/express-%23CC0000.svg?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+### Core AI/ML
+- Python
+- Machine Learning
+- Deep Learning
+- Neural Networks
+- NLP
 
-<br/>
+### Generative AI
+- Large Language Models (LLMs)
+- Transformers
+- GANs
+- VAEs
+- Diffusion Models (conceptual)
+- RAG Pipelines
 
+### LLM Frameworks
+- LangChain
+- HuggingFace
+- Llama-3.2-3B
+- Chroma DB
+- Gradio
 
-<br/>
+### Prompt Engineering
+- Prompt Design
+- Context Engineering
+- Retrieval-Augmented Prompting
 
-### 📚 Version Control
+### MLOps & Cloud
+- MLflow Basics
+- Google Colab
+- GitHub Actions
+- Azure Fundamentals (in progress)
 
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Github](https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=white)
+### Data Engineering & Analytics
+- NumPy
+- Pandas
+- EDA
+- Feature Engineering
+- PostgreSQL
+- MySQL
+- Power BI
 
-<br/>
+### Development
+- Django
+- React
+- REST APIs
+- HTML5
+- CSS3
+- Git
+- GitHub
 
-### 💻 OS
+### Tools
+- VS Code
+- Jupyter Notebook
+- Google Colab
+- Excel
+- PowerPoint
 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-<br/>
+---
 
-#
+## 💼 Professional Experience
 
-### 🔗 Connect with me
+### Artificial Intelligence and Machine Learning Intern | IBM / AICTE  
+**Dec 2025 – Jan 2026**
+- Built a local, privacy-preserving RAG chatbot using Llama-3.2-3B, LangChain, and HuggingFace.
+- Implemented vector search and document retrieval with a Gradio UI for accurate, real-time responses.
+- Applied ML/DL pipelines including data preprocessing and model evaluation for deployment.
 
-[![Linkedin](https://img.shields.io/badge/linked%20in-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kiran-matta/)
-[![Github](https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kiranmatta455)
-[![Email](https://img.shields.io/badge/email-red.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kiranmatta129@gmail.com)
+### Research Apprentice | Koneru Lakshmaiah Education Foundation  
+**Aug 2024 – Mar 2025**
+- Executed an end-to-end data science project under academic mentorship, from data acquisition to model deployment.
+- Authored a research paper with original analysis, maintaining less than 10% plagiarism through rigorous citation practices.
+- Initiated journal publication with planned submission to a Q2-indexed Scopus journal.
 
-#
+---
 
-### 📊 Github Stats
+## 📌 Projects
+
+### 1. Mental Health Companion Chatbot AI  
+**Tech Stack:** LangChain, HuggingFace, Llama-3.2-3B, Chroma DB, Gradio, Google Colab
+- Built a privacy-preserving mental health chatbot using Retrieval-Augmented Generation (RAG).
+- Integrated Llama-3.2-3B with LangChain and HuggingFace in a fully local setup.
+- Designed an interactive Gradio-based frontend for user input and question answering.
+
+### 2. Customer Behaviour Analysis  
+**Tech Stack:** Python, Pandas, PostgreSQL, Power BI
+- Performed end-to-end data analysis in Python covering validation, EDA, cleaning, and feature engineering to generate actionable insights.
+- Executed optimized PostgreSQL queries using joins, aggregations, and filters for scalable analytical reporting.
+- Built an interactive Power BI dashboard with KPIs, trend visualizations, and slicers to present data-driven insights.
+
+### 3. Travel Booking System  
+**Tech Stack:** Python, Django Rest Framework, React, GitHub, Responsive Web Design
+- Built a backend system for user authentication, bus search, seat allocation, and bookings.
+- Developed a responsive web interface using modern UI/UX and React-based design.
+- Managed version control and deployment using GitHub and GitHub Pages.
+
+---
+
+## 🎓 Education
+
+### M.Tech in Computer Science and Engineering  
+**Koneru Lakshmaiah Education Foundation**  
+**2023 – 2025** | **CGPA: 9.07**
+
+---
+
+## 📜 Certifications
+- Artificial Intelligence Fundamentals — IBM SkillsBuild
+- Accenture Data Analytics & Visualisation Virtual Internship — Forage
+- AI/ML Foundations (Agentic AI + MLOps) — Udemy
+- Python & Django Framework — Udemy
+- Master in Generative AI — Udemy
+
+---
+
+## 🔗 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kiran-matta/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kiranmatta455)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kiranmatta129@gmail.com)
+
+---
+
+## 📊 GitHub Stats
 
 <table>
   <tr>
     <td>
-     <td><img src="https://github-readme-stats.vercel.app/api?username=kiranmatta455&show_icons=true&locale=en&theme=highcontrast&hide_border=true" alt="kiranmatta" /></td>
-     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kiranmatta455&show_icons=true&locale=en&layout=compact&theme=highcontrast&hide_border=true" alt="kiranmatta" /></td>
+      <img src="https://github-readme-stats.vercel.app/api?username=kiranmatta455&show_icons=true&locale=en&theme=highcontrast&hide_border=true" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kiranmatta455&show_icons=true&locale=en&layout=compact&theme=highcontrast&hide_border=true" alt="Top Languages" />
     </td>
   </tr>
 </table>
-
 
 
